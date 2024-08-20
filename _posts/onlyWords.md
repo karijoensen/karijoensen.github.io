@@ -8,4 +8,4 @@ tags: [screaming]
 and here is some text for my MD file
 
 I can edit it as I **know** markdown
-this one is called "onlyWords.md"
+this one is called "onlyWords.md".
