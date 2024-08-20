@@ -1,6 +1,6 @@
 ---
 title: onlywords
-date: 2024-08-20 01:0500 +0000
+date: 2024-08-20 01:05:00 +0000
 categories: [writing, rambling]
 tags: [screaming]
 ---
